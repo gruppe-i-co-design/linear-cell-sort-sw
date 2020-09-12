@@ -14,7 +14,7 @@ const int DATA_LENGTH = 8;
 //
 
 unsigned int data[] = {7, 4, 2, 12, 4, 6, 4, 100};
-unsigned int sorted_data[] = {};
+unsigned int sorted_data[DATA_LEN] = {};
 
 int main() {
 	// Vitis stuff
